@@ -1,5 +1,9 @@
 # cVim Changelog
-# [Like cVim? Consider donating! https://www.paypal.me/1995eaton](https://www.paypal.me/1995eaton)
+
+## 1.2.100 (2022-03-01)
+ * Make `<summary>` tag clickable
+ * Remove `createShadowRoot` deprecated method usage
+ * Add `package-lock.json` file
 
 ## 1.2.99 (2017-12-17)
  * Updated list of `chrome://` completion URLs when `:chrome` is used
